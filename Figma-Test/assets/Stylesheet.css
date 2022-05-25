@@ -1,0 +1,125 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+button{
+ width: auto;
+}
+.orange{
+   background-color: orange !important;
+   color: #FFFFFF;
+}
+.sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        padding: 5px;
+}
+
+.kj{
+    color: red;
+}
+.li{
+    color: black;
+    
+}
+.big{
+    font-size: 44px;
+}
+.thesection {
+    background-image: url('/assets/img/Bg.png');
+  }
+.h36{
+    font-size: 36px;
+    font: black;
+}
+.h16{
+    font-size: 16px;
+    font:#544837;
+}
+.p18{
+    font-size: 18px;
+    font:#544837;
+}
+.p22{
+    font-size: 22px;
+    color: black;
+}
+.largemergain{
+    margin-top: 150.69px;
+}
+.marg{
+    margin-top: 100px;
+}
+.h24{
+    font-size: 24px;
+}
+.bott{
+    margin-bottom: 200px;
+}
+.thesect{
+    background-image: url('/assets/img/Oval.png');
+    background-repeat: no-repeat;
+}
+.cmargin{
+    margin-top: 30px;
+}
+.specialmargin{
+    margin-bottom: 0px;
+}
+.cma{
+    margin-top: 22px;
+}
+.mt12{
+    margin-top: 12px;
+}
+.Corange{
+    color: orange;
+}
+.specialbottom{
+    margin-bottom: 55px;
+}
+.cmar{
+    margin-top: 70px;
+}
+.mt9{
+    margin-top: 9px;
+}
+.sppmargin{
+    margin-top: 75px;
+}
+.m146{
+    margin-top: 146px;
+}
+.m120{
+    margin-top: 120px;
+}
+.m118{
+    margin-top: 118px;
+}
+.m150{
+    margin-top: 150px;
+}
+.m149{
+    margin-top: 149px;
+}
+.m144{
+    margin-top: 144px;
+}
+.m112{
+    margin-top: 112px;
+}
+.m113{
+    margin-top: 113px;
+}
+.mt20{
+    margin-top: 20px;
+}
+.HRColor{
+background-color: rgba(188, 208, 229, 0.496913);
+}
+.mt120{
+    margin-top: 120px;
+}
+.m115{
+    margin-top: 115px;
+}
