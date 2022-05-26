@@ -14,7 +14,6 @@ button{
         top: 0;
         padding: 5px;
 }
-
 .kj{
     color: red;
 }
@@ -61,7 +60,7 @@ button{
     background-repeat: no-repeat;
 }
 .cmargin{
-    margin-top: 30px;
+    margin-top: 36px;
 }
 .specialmargin{
     margin-bottom: 0px;
@@ -74,6 +73,12 @@ button{
 }
 .Corange{
     color: orange;
+}
+.CRed{
+    color: red;
+}
+.Cblue{
+    color:blue;
 }
 .specialbottom{
     margin-bottom: 55px;
@@ -123,3 +128,31 @@ background-color: rgba(188, 208, 229, 0.496913);
 .m115{
     margin-top: 115px;
 }
+.carousel-item{
+    height: 200px;
+    width: 300px;
+}
+.butt{
+    border-radius: 50%;
+    border: 1px;
+    background-color: white;
+    width: 15px;
+    height: 15px;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .m90{
+      margin-top: 90px;
+  }
+  .mt20{
+      margin-top: 20px;
+  }
+  .mt47{
+    margin-top: 47px;
+  }
+  .m111{
+      margin-top: 111px;
+  }
